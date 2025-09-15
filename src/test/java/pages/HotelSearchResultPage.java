@@ -1,10 +1,13 @@
 package pages;
 import org.openqa.selenium.*;
 import org.openqa.selenium.support.FindBy;
+import org.openqa.selenium.support.PageFactory;
+
 import java.util.List;
 
 
-public class HotelSearchResultPage {
+public class HotelSearchResultPage extends HotelMainPage {
+    private WebDriver driver;
 
     //View Map button
     @FindBy(xpath = "//i[@class='icon-location-7 mob-filter']")
@@ -96,5 +99,10 @@ public class HotelSearchResultPage {
     //Details button
     @FindBy(xpath = "//button[@class='btn btn-primary br25 loader loader btn-block']")
     private List<WebElement> detailsButton;
+
+    public HotelSearchResultPage(WebDriver driver) {
+        this.driver = driver;
+        PageFactory.initElements(driver, this);
+    }
 
 }
