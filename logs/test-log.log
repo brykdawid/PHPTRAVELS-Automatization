@@ -1,0 +1,82 @@
+2025-09-21 16:25:10 INFO  HotelSearchResultPage:121 - Map error!
+2025-09-21 16:31:29 INFO  HotelSearchResultPage:123 - Map properly displayed
+2025-09-21 16:59:27 INFO  HotelSearchResultPage:127 - Map properly displayed
+2025-09-21 17:02:09 INFO  HotelSearchResultPage:127 - Map properly displayed
+2025-09-21 17:02:42 INFO  HotelSearchResultPage:127 - Map properly displayed
+2025-09-21 17:04:13 INFO  HotelSearchResultPage:127 - Map properly displayed
+2025-09-21 17:04:55 INFO  HotelSearchResultPage:127 - Map properly displayed
+2025-09-21 17:04:55 INFO  HotelSearchResultPage:145 - Itteration num: [[ChromeDriver: chrome on windows (d4c110d7d1541ee45488fdb6682ba1d9)] -> xpath: //h4[@class='RTL go-text-right mt0 mb4 list_title']]
+2025-09-21 17:04:55 INFO  HotelSearchResultPage:145 - Itteration num: [[ChromeDriver: chrome on windows (d4c110d7d1541ee45488fdb6682ba1d9)] -> xpath: //h4[@class='RTL go-text-right mt0 mb4 list_title']]
+2025-09-21 17:04:55 INFO  HotelSearchResultPage:145 - Itteration num: [[ChromeDriver: chrome on windows (d4c110d7d1541ee45488fdb6682ba1d9)] -> xpath: //h4[@class='RTL go-text-right mt0 mb4 list_title']]
+2025-09-21 17:04:55 INFO  HotelSearchResultPage:145 - Itteration num: [[ChromeDriver: chrome on windows (d4c110d7d1541ee45488fdb6682ba1d9)] -> xpath: //h4[@class='RTL go-text-right mt0 mb4 list_title']]
+2025-09-21 17:05:24 INFO  HotelSearchResultPage:127 - Map properly displayed
+2025-09-21 17:05:24 INFO  HotelSearchResultPage:145 - Itteration num: Jumeirah Beach Hotel
+2025-09-21 17:05:24 INFO  HotelSearchResultPage:145 - Itteration num: Oasis Beach Tower
+2025-09-21 17:05:24 INFO  HotelSearchResultPage:145 - Itteration num: Rose Rayhaan Rotana
+2025-09-21 17:05:24 INFO  HotelSearchResultPage:145 - Itteration num: Hyatt Regency Perth
+2025-09-21 17:21:25 INFO  HotelSearchResultPage:128 - Map properly displayed
+2025-09-21 17:21:25 INFO  HotelSearchResultPage:146 - Itteration num: Jumeirah Beach Hotel
+2025-09-21 17:21:25 INFO  HotelSearchResultPage:146 - Itteration num: Oasis Beach Tower
+2025-09-21 17:21:25 INFO  HotelSearchResultPage:146 - Itteration num: Rose Rayhaan Rotana
+2025-09-21 17:21:25 INFO  HotelSearchResultPage:146 - Itteration num: Hyatt Regency Perth
+2025-09-21 17:23:19 INFO  HotelSearchResultPage:128 - Map properly displayed
+2025-09-21 17:23:19 INFO  HotelSearchResultPage:146 - Itteration num: Jumeirah Beach Hotel
+2025-09-21 17:23:19 INFO  HotelSearchResultPage:146 - Itteration num: Oasis Beach Tower
+2025-09-21 17:23:19 INFO  HotelSearchResultPage:146 - Itteration num: Rose Rayhaan Rotana
+2025-09-21 17:23:19 INFO  HotelSearchResultPage:146 - Itteration num: Hyatt Regency Perth
+2025-09-21 17:23:39 INFO  HotelSearchResultPage:128 - Map properly displayed
+2025-09-21 17:23:39 INFO  HotelSearchResultPage:146 - Itteration num: Jumeirah Beach Hotel
+2025-09-21 17:23:39 INFO  HotelSearchResultPage:146 - Itteration num: Oasis Beach Tower
+2025-09-21 17:23:39 INFO  HotelSearchResultPage:146 - Itteration num: Rose Rayhaan Rotana
+2025-09-21 17:23:39 INFO  HotelSearchResultPage:146 - Itteration num: Hyatt Regency Perth
+2025-09-21 17:24:28 INFO  HotelSearchResultPage:128 - Map properly displayed
+2025-09-21 17:24:28 INFO  HotelSearchResultPage:146 - Itteration num: Jumeirah Beach Hotel
+2025-09-21 17:24:28 INFO  HotelSearchResultPage:146 - Itteration num: Oasis Beach Tower
+2025-09-21 17:24:28 INFO  HotelSearchResultPage:146 - Itteration num: Rose Rayhaan Rotana
+2025-09-21 17:24:28 INFO  HotelSearchResultPage:146 - Itteration num: Hyatt Regency Perth
+2025-09-21 17:24:28 INFO  HotelSearchResultPage:156 - Itteration number: 0
+2025-09-21 17:25:23 INFO  HotelSearchResultPage:128 - Map properly displayed
+2025-09-21 17:25:24 INFO  HotelSearchResultPage:146 - Itteration num: Jumeirah Beach Hotel
+2025-09-21 17:25:24 INFO  HotelSearchResultPage:146 - Itteration num: Oasis Beach Tower
+2025-09-21 17:25:24 INFO  HotelSearchResultPage:146 - Itteration num: Rose Rayhaan Rotana
+2025-09-21 17:25:24 INFO  HotelSearchResultPage:146 - Itteration num: Hyatt Regency Perth
+2025-09-21 17:25:24 INFO  HotelSearchResultPage:156 - Itteration number: 0
+2025-09-21 17:25:24 INFO  HotelSearchResultPage:156 - Itteration number: 1
+2025-09-21 17:25:24 INFO  HotelSearchResultPage:156 - Itteration number: 2
+2025-09-21 17:25:24 INFO  HotelSearchResultPage:156 - Itteration number: 3
+2025-09-21 17:35:23 INFO  HotelSearchResultPage:130 - Map properly displayed
+2025-09-21 17:35:23 INFO  HotelSearchResultPage:148 - Itteration num: Jumeirah Beach Hotel
+2025-09-21 17:35:23 INFO  HotelSearchResultPage:148 - Itteration num: Oasis Beach Tower
+2025-09-21 17:35:23 INFO  HotelSearchResultPage:148 - Itteration num: Rose Rayhaan Rotana
+2025-09-21 17:35:23 INFO  HotelSearchResultPage:148 - Itteration num: Hyatt Regency Perth
+2025-09-21 17:35:23 INFO  HotelSearchResultPage:158 - Itteration number: 0
+2025-09-21 17:35:23 INFO  HotelSearchResultPage:158 - Itteration number: 1
+2025-09-21 17:35:23 INFO  HotelSearchResultPage:158 - Itteration number: 2
+2025-09-21 17:35:23 INFO  HotelSearchResultPage:158 - Itteration number: 3
+2025-09-21 17:37:00 INFO  HotelSearchResultPage:130 - Map properly displayed
+2025-09-21 17:37:00 INFO  HotelSearchResultPage:148 - Itteration num: Jumeirah Beach Hotel
+2025-09-21 17:37:00 INFO  HotelSearchResultPage:148 - Itteration num: Oasis Beach Tower
+2025-09-21 17:37:00 INFO  HotelSearchResultPage:148 - Itteration num: Rose Rayhaan Rotana
+2025-09-21 17:37:00 INFO  HotelSearchResultPage:148 - Itteration num: Hyatt Regency Perth
+2025-09-21 17:37:00 INFO  HotelSearchResultPage:158 - Itteration number: 0
+2025-09-21 17:37:00 INFO  HotelSearchResultPage:158 - Itteration number: 1
+2025-09-21 17:37:00 INFO  HotelSearchResultPage:158 - Itteration number: 2
+2025-09-21 17:37:00 INFO  HotelSearchResultPage:158 - Itteration number: 3
+2025-09-21 17:38:30 INFO  HotelSearchResultPage:130 - Map properly displayed
+2025-09-21 17:38:30 INFO  HotelSearchResultPage:148 - Itteration num: Jumeirah Beach Hotel
+2025-09-21 17:38:30 INFO  HotelSearchResultPage:148 - Itteration num: Oasis Beach Tower
+2025-09-21 17:38:30 INFO  HotelSearchResultPage:148 - Itteration num: Rose Rayhaan Rotana
+2025-09-21 17:38:30 INFO  HotelSearchResultPage:148 - Itteration num: Hyatt Regency Perth
+2025-09-21 17:38:30 INFO  HotelSearchResultPage:158 - Itteration number: 0
+2025-09-21 17:38:30 INFO  HotelSearchResultPage:158 - Itteration number: 1
+2025-09-21 17:38:30 INFO  HotelSearchResultPage:158 - Itteration number: 2
+2025-09-21 17:38:30 INFO  HotelSearchResultPage:158 - Itteration number: 3
+2025-09-21 17:41:23 INFO  HotelSearchResultPage:130 - Map properly displayed
+2025-09-21 17:41:23 INFO  HotelSearchResultPage:148 - Itteration num: Jumeirah Beach Hotel
+2025-09-21 17:41:23 INFO  HotelSearchResultPage:148 - Itteration num: Oasis Beach Tower
+2025-09-21 17:41:23 INFO  HotelSearchResultPage:148 - Itteration num: Rose Rayhaan Rotana
+2025-09-21 17:41:23 INFO  HotelSearchResultPage:148 - Itteration num: Hyatt Regency Perth
+2025-09-21 17:41:23 INFO  HotelSearchResultPage:158 - Itteration number: 0
+2025-09-21 17:41:23 INFO  HotelSearchResultPage:158 - Itteration number: 1
+2025-09-21 17:41:23 INFO  HotelSearchResultPage:158 - Itteration number: 2
+2025-09-21 17:41:23 INFO  HotelSearchResultPage:158 - Itteration number: 3

@@ -3,6 +3,7 @@ import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 import org.testng.annotations.Test;
 import pages.HotelMainPage;
+import pages.HotelSearchResultPage;
 
 public class SearchHotelTest extends TestMethods {
 
@@ -21,6 +22,19 @@ public class SearchHotelTest extends TestMethods {
                 .setTravelers(2,1)
                 .submitSearch();
 
+        HotelSearchResultPage hotelSearchResultPage = new HotelSearchResultPage(driver);
+
+        hotelSearchResultPage.checkTheMap()
+                .checkTitles()
+                .checkLocation()
+                .checkPrice()
+                .checkDesc()
+                .submitDetails();
+
+
+
+        }
+
     }
 
-}
+
