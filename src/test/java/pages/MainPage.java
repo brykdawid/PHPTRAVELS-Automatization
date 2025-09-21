@@ -1,10 +1,13 @@
 package pages;
-import org.bouncycastle.jcajce.provider.asymmetric.X509;
+import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
+import org.openqa.selenium.support.PageFactory;
+
 import java.util.List;
 
 public class MainPage {
+    private WebDriver driver;
 
     //Main Page Button
     @FindBy(xpath = "//img[@alt='PHPTRAVELS | Travel Technology Partner']")
@@ -23,11 +26,11 @@ public class MainPage {
     private WebElement offers;
 
     //My account
-    @FindBy(xpath = "//i[@text()='My Account']")
-    private WebElement myAccoutButton;
+    @FindBy(xpath = "//li[@id='li_myaccount']")
+    private List<WebElement> myAccoutButton;
 
     //Login Options
-    @FindBy(xpath = "//li[@id='li_myaccount']//ul[@class='dropdown-menu']")
+    @FindBy(xpath = "//ul[@class='dropdown-menu']//li")
     private List<WebElement> loginOptions;
 
     //Currency Hover Over
@@ -236,6 +239,33 @@ public class MainPage {
     @FindBy(xpath = "//a[@data-original-title='RSS']")
     private WebElement rrsBtn;
 
+    public MainPage(WebDriver driver) {
+        this.driver = driver;
+        PageFactory.initElements(driver, this);
+    }
+
+    public MainPage() {
+    }
+
+
+    public LoginPage startLogin() throws InterruptedException {
+        Thread.sleep(2500);
+        myAccoutButton.get(1).click();
+        Thread.sleep(500);
+        loginOptions.get(2).click();
+        Thread.sleep(500);
+        return new LoginPage(driver);
+
+    }
+
+    public RegisterPage startRegister() throws InterruptedException {
+        Thread.sleep(2500);
+        myAccoutButton.get(1).click();
+        Thread.sleep(500);
+        loginOptions.get(3).click();
+        Thread.sleep(500);
+        return new RegisterPage(driver);
+    }
 
 
     

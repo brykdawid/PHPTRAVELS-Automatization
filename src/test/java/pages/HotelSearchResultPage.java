@@ -13,6 +13,10 @@ public class HotelSearchResultPage extends HotelMainPage {
     @FindBy(xpath = "//i[@class='icon-location-7 mob-filter']")
     private WebElement viewMapButton;
 
+    //Map
+    @FindBy(xpath = "//div[@id='map']")
+    private WebElement map;
+
     //Search box
     //City
     @FindBy(xpath = "//input[@class='select2-input']")

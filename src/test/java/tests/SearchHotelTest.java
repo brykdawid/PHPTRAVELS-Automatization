@@ -12,7 +12,6 @@ public class SearchHotelTest extends TestMethods {
 
     @Test
     public void searchHotelTest () throws InterruptedException {
-        driver.get("http://www.kurs-selenium.pl/demo/");
 
         HotelMainPage hotelSearchPage = new HotelMainPage(driver);
 
