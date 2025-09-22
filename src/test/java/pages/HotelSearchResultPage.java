@@ -7,13 +7,10 @@ import org.openqa.selenium.support.PageFactory;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
 import org.testng.Assert;
-
 import java.time.Duration;
-import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 import java.util.Random;
-import java.util.random.RandomGenerator;
 import java.util.stream.IntStream;
 
 
@@ -180,7 +177,8 @@ public class HotelSearchResultPage extends HotelMainPage {
 
     public HotelOfferPage submitDetails () throws InterruptedException{
         int randomOffer = new Random().nextInt(detailsButton.size());
-        detailsButton.get(randomOffer);
+        logger.info("Selected index: " +randomOffer);
+        detailsButton.get(randomOffer).click();
         Thread.sleep(1000);
 
         return new HotelOfferPage(driver);
